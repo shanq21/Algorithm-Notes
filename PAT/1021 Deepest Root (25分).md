@@ -1,4 +1,4 @@
-[1021 Deepest Root (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)
+# [1021 Deepest Root (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)
 
 - 并查集
   - 一是用来判断图是否有环
@@ -6,6 +6,8 @@
   - 二是用来计算图的连通分量个数
 - 递归求树高
   - 注意代码顺序
+
+### AC代码
 
 ```c++
 #include <iostream>
