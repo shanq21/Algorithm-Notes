@@ -1,7 +1,7 @@
 # [1030 Travel Plan (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)
 
 - 简单的`Dijkstra`算法，边上除了`dis`还有`cost`，直接在遍历时比较即可
-  - 注：两个参数可以直接比较，两个以上则不行，参见 [1018 Public Bike Management](1018 Public Bike Management (30分).md)
+  - 注：两个参数可以直接比较，两个以上则不行，参见 [1018 Public Bike Management](./1018 Public Bike Management (30分).md)
 
 ### AC代码
 
