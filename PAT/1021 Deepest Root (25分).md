@@ -36,22 +36,14 @@ int findRoot (int x) { // 并查集配套算法，含压缩路径
 }
 
 int depth (int cur, int pre) { // 查找深度
-    bool hasChild = false;
-    int d = 1;
+    int d = 0;
     for (int i = 0; i < edge[cur].size(); i ++) {
         int next = edge[cur][i];
         if (next != pre) {
-            hasChild = true;
             d = max(d, depth(next, cur));
-            
         }
     }
-    if (!hasChild) {
-        return 1;
-    }
-    else {
-        return d + 1;
-    }
+    return d + 1;
 }
 
 bool cmp (Res a, Res b) {
