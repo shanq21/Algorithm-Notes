@@ -2,6 +2,8 @@
 
 - 简单的并查集计算连通分量个数
 
+### AC代码
+
 ```c++
 #include <iostream>
 using namespace std;
