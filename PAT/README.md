@@ -52,19 +52,22 @@
 
 
 
-## 结构体
+## 排序
 
 | 题目                                                         | 备注                   |
 | ------------------------------------------------------------ | :--------------------- |
-| [1022 Digital Library (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) | 结构体，字符串输入处理 |
 | [1025 PAT Ranking (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872) | 结构体排序，同分数排名 |
 | [1028 List Sorting (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240) | 结构体排序             |
+| [1036 Boys vs Girls (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) | 结构体排序             |
+| [1038 Recover the Smallest Number (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704) | 字符串排序             |
 
 
 
 ## 其他
 
-| 题目                                                         | 备注           |
-| ------------------------------------------------------------ | :------------- |
-| [1032 Sharing (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | 链表节点的遍历 |
-| [1033 To Fill or Not to Fill (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080) | 贪心算法       |
+| 题目                                                         | 备注                   |
+| ------------------------------------------------------------ | :--------------------- |
+| [1022 Digital Library (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) | 结构体，字符串输入处理 |
+| [1032 Sharing (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | 链表节点的遍历         |
+| [1033 To Fill or Not to Fill (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080) | 贪心算法               |
+| [1037 Magic Coupon (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472) | 简单的贪心算法         |
