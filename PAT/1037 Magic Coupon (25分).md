@@ -3,6 +3,8 @@
 - 简单的贪心算法？
 - 一开始段错误以为是判断条件写不对导致越界，最后发现是数组开得不够大= =
 
+### AC代码
+
 ```c++
 #include <iostream>
 #include <algorithm>

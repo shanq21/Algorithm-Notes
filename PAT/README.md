@@ -6,15 +6,16 @@
 | ------------------------------------------------------------ | :------------------- |
 | **[1010 Radix (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)** | 进制转换，小细节很多 |
 | [1024 Palindromic Number (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608) | 高精度整数           |
-| [1029 Median (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968) | 排序                 |
+| [1029 Median (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968) | 寻找中位数           |
 
 
 
 ## 树
 
-| 题目                                                         | 备注                              |
-| ------------------------------------------------------------ | :-------------------------------- |
-| [1020 Tree Traversals (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) | 根据中后序遍历还原树，BFS层次遍历 |
+| 题目                                                         | 备注                                  |
+| ------------------------------------------------------------ | :------------------------------------ |
+| [1020 Tree Traversals (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) | 根据中后序遍历还原树，`BFS`层次遍历   |
+| [1053 Path of Equal Weight (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) | `DFS`遍历，从根节点到叶子节点的权重和 |
 
 
 
@@ -29,18 +30,18 @@
 | [1030 Travel Plan (30分)](https://github.com/shanq21/notes/blob/master/PAT/1030%20Travel%20Plan%20(30%E5%88%86).md) | `Dijkstra`                       |
 | **[1034 Head of a Gang (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805456881434624)** | 并查集综合处理                   |
 | [1072 Gas Station (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805396953219072) | `Dijkstra`                       |
-| [1076 Forwards on Weibo (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736) | 图的`BFS`遍历                    |
+| [1076 Forwards on Weibo (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736) | 图的BFS遍历                      |
 | [1087 All Roads Lead to Rome (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805379664297984) | `Dijkstra` + `DFS`               |
 | [1111 Online Map (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805358663417856) | `Dijkstra`                       |
 
 
 
-## 动态规划 & 贪心算法
+## 动态规划
 
 | 题目                                                         | 备注 |
 | ------------------------------------------------------------ | :--- |
-| [1007 Maximum Subsequence Sum (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168) |      |
-|                                                              |      |
+| [1007 Maximum Subsequence Sum (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168) | 简单 |
+| [1045 Favorite Color Stripe (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456) | 中等 |
 
 
 
@@ -52,6 +53,17 @@
 
 
 
+## 查找
+
+| 题目                                                         | 备注                     |
+| ------------------------------------------------------------ | :----------------------- |
+| [1039 Course List for Student (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416) | 数据查找，哈希           |
+| [1044 Shopping in Mars (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805439202443264) | 大于等于的最小值二分查找 |
+| [1047 Student List for Course (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) | 数据组织查找，简单       |
+| [1048 Find Coins (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840) | 哈希                     |
+
+
+
 ## 排序
 
 | 题目                                                         | 备注                   |
@@ -60,6 +72,7 @@
 | [1028 List Sorting (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240) | 结构体排序             |
 | [1036 Boys vs Girls (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) | 结构体排序             |
 | [1038 Recover the Smallest Number (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704) | 字符串排序             |
+| [1055 The World's Richest (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768) | 结构体排序             |
 
 
 
@@ -68,6 +81,9 @@
 | 题目                                                         | 备注                   |
 | ------------------------------------------------------------ | :--------------------- |
 | [1022 Digital Library (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) | 结构体，字符串输入处理 |
-| [1032 Sharing (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | 链表节点的遍历         |
+| [1032 Sharing (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | 链表                   |
 | [1033 To Fill or Not to Fill (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080) | 贪心算法               |
 | [1037 Magic Coupon (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472) | 简单的贪心算法         |
+| [1051 Pop Sequence (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944) | 判断出栈序列           |
+| [1052 Linked List Sorting (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464) | 链表                   |
+
