@@ -21,6 +21,8 @@
 | [1086 Tree Traversals Again (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) | 根据栈+中序遍历重建二叉树             |
 | [1099 Build A Binary Search Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648) | 中序遍历构造二叉搜索树，`BFS`层次遍历 |
 | [1102 Invert a Binary Tree (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112) | 镜面二叉树，层次遍历，中序遍历        |
+| [1110 Complete Binary Tree (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805359372255232) | 判断是否完全二叉树，`BFS`             |
+| [1115 Counting Nodes in a BST (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805355987451904) | 建立二叉搜索树，计算某层节点个数      |
 
 
 
@@ -95,6 +97,7 @@
 | [1083 List Grades (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152) | 结构体排序，区间输出       |
 | **[1089 Insert or Merge (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805377432928256)** | 判断是插入排序还是归并排序 |
 | **[1098 Insertion or Heap Sort (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968)** | 判断是插入排序还是堆排序   |
+| [1109 Group Photo (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805360043343872) | 拍合照时的身高摆放         |
 
 
 
@@ -119,4 +122,8 @@
 | [1097 Deduplication on a Linked List (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152) | 链表，剔除重复元素                   |
 | [1101 Quick Sort (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805366343188480) | 递推                                 |
 | [1105 Spiral Matrix (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805363117768704) | 顺时针输出（自认这题写得十分漂亮！） |
+| [1107 Social Clusters (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805361586847744) | 并查集                               |
+| [1113 Integer Set Partition (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805357258326016) | 简单题                               |
+| [1114 Family Property (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805356599820288) | 并查集，数据处理麻烦                 |
+| [1117 Eddington Number (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805354762715136) | 求有`X`个超过`X`的`X`的最大值        |
 
