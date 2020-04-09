@@ -13,16 +13,18 @@
 
 ## 树
 
-| 题目                                                         | 备注                                  |
-| ------------------------------------------------------------ | :------------------------------------ |
-| [1020 Tree Traversals (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) | 根据中后序遍历还原树，`BFS`层次遍历   |
-| [1053 Path of Equal Weight (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) | `DFS`遍历，从根节点到叶子节点的权重和 |
-| [1064 Complete Binary Search Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805407749357568) | 建立完全二叉搜索树                    |
-| [1086 Tree Traversals Again (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) | 根据栈+中序遍历重建二叉树             |
-| [1099 Build A Binary Search Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648) | 中序遍历构造二叉搜索树，`BFS`层次遍历 |
-| [1102 Invert a Binary Tree (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112) | 镜面二叉树，层次遍历，中序遍历        |
-| [1110 Complete Binary Tree (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805359372255232) | 判断是否完全二叉树，`BFS`             |
-| [1115 Counting Nodes in a BST (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805355987451904) | 建立二叉搜索树，计算某层节点个数      |
+| 题目                                                         | 备注                                        |
+| ------------------------------------------------------------ | :------------------------------------------ |
+| **[1020 Tree Traversals (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)** | 根据中后序遍历还原树，`BFS`层次遍历         |
+| [1053 Path of Equal Weight (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) | `DFS`遍历，从根节点到叶子节点的权重和       |
+| [1064 Complete Binary Search Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805407749357568) | 建立完全二叉搜索树                          |
+| [1086 Tree Traversals Again (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) | 根据栈+中序遍历重建二叉树                   |
+| [1099 Build A Binary Search Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648) | 中序遍历构造二叉搜索树，`BFS`层次遍历       |
+| [1102 Invert a Binary Tree (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112) | 镜面二叉树，层次遍历，中序遍历              |
+| [1110 Complete Binary Tree (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805359372255232) | 判断是否完全二叉树，`BFS`                   |
+| [1115 Counting Nodes in a BST (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805355987451904) | 建立二叉搜索树，计算某层节点个数            |
+| [1127 ZigZagging on a Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805349394006016) | 根据中后序遍历还原树，`BFS`左右轮流层次遍历 |
+| [1130 Infix Expression (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805347921805312) | 根据符号树生成表达式，`DFS`                 |
 
 
 
@@ -40,6 +42,8 @@
 | [1076 Forwards on Weibo (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736) | 图的BFS遍历                      |
 | [1087 All Roads Lead to Rome (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805379664297984) | `Dijkstra` + `DFS`               |
 | [1111 Online Map (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805358663417856) | `Dijkstra`                       |
+| [1122 Hamiltonian Cycle (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805351814119424) | 判断汉密尔顿回路                 |
+| [1126 Eulerian Path (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152) | 判断欧拉回路                     |
 
 
 
@@ -126,4 +130,9 @@
 | [1113 Integer Set Partition (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805357258326016) | 简单题                               |
 | [1114 Family Property (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805356599820288) | 并查集，数据处理麻烦                 |
 | [1117 Eddington Number (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805354762715136) | 求有`X`个超过`X`的`X`的最大值        |
+| [1118 Birds in Forest (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805354108403712) | 并查集                               |
+| [1121 Damn Single (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805352359378944) | 找出没有配对的人                     |
+| [1125 Chain the Ropes (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805350316752896) | 简单逻辑                             |
+| [1129 Recommendation System (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805348471259136) | 按出现频率输出，元素序列持续添加     |
+| [1133 Splitting A Linked List (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805346776760320) | 链表，分类后合并                     |
 
