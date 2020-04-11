@@ -44,6 +44,7 @@
 | [1111 Online Map (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805358663417856) | `Dijkstra`                       |
 | [1122 Hamiltonian Cycle (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805351814119424) | 判断汉密尔顿回路                 |
 | [1126 Eulerian Path (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152) | 判断欧拉回路                     |
+| [1146 Topological Order (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805343043829760) | 判断拓扑排序                     |
 
 
 
@@ -75,7 +76,7 @@
 | [1048 Find Coins (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840) | 哈希                     |
 | [1067 Sort with Swap(0, i) (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560) | 哈希                     |
 | **[1068 Find More Coins (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805402305150976)** | `DFS`                    |
-| **[1078 Hashing (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592)** | 哈希，二次探测           |
+| **[1078 Hashing (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592)** | 哈希表，二次探测         |
 | [1079 Total Sales of Supply Chain (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560) | `DFS`                    |
 | [1085 Perfect Sequence (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064) | 小于等于的最大值二分查找 |
 | [1090 Highest Price in Supply Chain (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805376476626944) | `DFS`                    |
@@ -83,6 +84,8 @@
 | [1094 The Largest Generation (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805372601090048) | `BFS`，简单              |
 | [1106 Lowest Price in Supply Chain (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805362341822464) | `BFS`                    |
 | **[1103 Integer Factorization (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224)** | `DFS`，剪枝              |
+| [1145 Hashing - Average Search Time (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805343236767744) | 哈希表，二次探测，ASL    |
+| [1149 Dangerous Goods Packaging (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/1038429908921778176) | 查找是否存在匹配         |
 
 
 
@@ -102,6 +105,8 @@
 | **[1089 Insert or Merge (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805377432928256)** | 判断是插入排序还是归并排序 |
 | **[1098 Insertion or Heap Sort (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968)** | 判断是插入排序还是堆排序   |
 | [1109 Group Photo (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805360043343872) | 拍合照时的身高摆放         |
+| [1153 Decode Registration Card of PAT (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/1071785190929788928) | 考查数据结构的设计         |
+| [1137 Final Grading (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608) | 结构体排序                 |
 
 
 
@@ -135,4 +140,6 @@
 | [1125 Chain the Ropes (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805350316752896) | 简单逻辑                             |
 | [1129 Recommendation System (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805348471259136) | 按出现频率输出，元素序列持续添加     |
 | [1133 Splitting A Linked List (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805346776760320) | 链表，分类后合并                     |
+| [1147 Heaps (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805342821531648) | 判断大小根堆，`DFS`                  |
+| [1155 Heap Paths (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/1071785408849047552) | 判断大小根堆，`DFS`，保存路径        |
 
