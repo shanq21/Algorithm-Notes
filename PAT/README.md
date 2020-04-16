@@ -25,6 +25,9 @@
 | [1115 Counting Nodes in a BST (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805355987451904) | 建立二叉搜索树，计算某层节点个数            |
 | [1127 ZigZagging on a Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805349394006016) | 根据中后序遍历还原树，`BFS`左右轮流层次遍历 |
 | [1130 Infix Expression (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805347921805312) | 根据符号树生成表达式，`DFS`                 |
+| [1138 Postorder Traversal (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805345078067200) | 由前中序遍历，求后序遍历第一个节点          |
+| [1143 Lowest Common Ancestor (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805343727501312) | 还原二叉搜索树，寻找`LCA`                   |
+| [1151 LCA in a Binary Tree (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/1038430130011897856) | 前中序还原二叉树，寻找`LCA`                 |
 
 
 
@@ -44,7 +47,12 @@
 | [1111 Online Map (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805358663417856) | `Dijkstra`                       |
 | [1122 Hamiltonian Cycle (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805351814119424) | 判断汉密尔顿回路                 |
 | [1126 Eulerian Path (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152) | 判断欧拉回路                     |
+| [1134 Vertex Cover (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805346428633088) | 判断给定点集是否覆盖所有边       |
+| [1139 First Contact (30分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805344776077312) | 判断两个点间是否存在合适路径     |
+| [1142 Maximal Clique (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805343979159552) | 判断maximal clique               |
 | [1146 Topological Order (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805343043829760) | 判断拓扑排序                     |
+| [1150 Travelling Salesman Problem (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/1038430013544464384) | 判断经过所有点的回路             |
+| [1154 Vertex Coloring (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/1071785301894295552) | 边的遍历                         |
 
 
 
@@ -105,8 +113,9 @@
 | **[1089 Insert or Merge (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805377432928256)** | 判断是插入排序还是归并排序 |
 | **[1098 Insertion or Heap Sort (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968)** | 判断是插入排序还是堆排序   |
 | [1109 Group Photo (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805360043343872) | 拍合照时的身高摆放         |
-| [1153 Decode Registration Card of PAT (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/1071785190929788928) | 考查数据结构的设计         |
 | [1137 Final Grading (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608) | 结构体排序                 |
+| [1141 PAT Ranking of Institutions (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/994805344222429184) | 结构体排序                 |
+| [1153 Decode Registration Card of PAT (25分)](https://pintia.cn/problem-sets/994805342720868352/problems/1071785190929788928) | 考查数据结构的设计         |
 
 
 
